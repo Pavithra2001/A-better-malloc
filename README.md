@@ -1,4 +1,4 @@
-# A-better-malloc
+# A-better-malloc-and-free
 Paper - http://pages.cs.wisc.edu/~dusseau/Classes/CS537-F07/Projects/P3/index.html
 
 I have created a memory allocator which is similar to malloc. However the memory free function is optimizzed.
